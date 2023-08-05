@@ -2,6 +2,10 @@
 
 This is a TikTok Viewbot script written in Python. It allows you to send views to TikTok videos using multiple threads. Please note that using viewbots or engaging in any form of artificial manipulation of views goes against TikTok's terms of service and can result in penalties or account suspension. Use this script responsibly and at your own risk.
 
+<img src="https://i.imgur.com/BfCr2uP.png"></img>
+
+<img src="https://i.imgur.com/HW5jC9l.png"></img>
+
 ## Installation
 
 To install the necessary dependencies, you can use the provided `install.bat` file. This batch file will automatically install all the required Python packages listed in the `requirements.txt` file.
